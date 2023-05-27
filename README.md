@@ -26,4 +26,4 @@ alias youtube='python3 <current_directory>/youtube.py'
 ## To apply the changes, either restart your terminal or run the following command to reload the .bashrc file:
 source ~/.bashrc
 ## Now you can use the youtube alias in your terminal to execute the Python script by simply typing youtube. 
-youtube
+youtube -url <url>
